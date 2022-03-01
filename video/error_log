@@ -1,0 +1,22 @@
+[26-Feb-2022 13:35:19 America/New_York] PHP Warning:  include(/include/vod.php): failed to open stream: No such file or directory in /home/kalathra/public_html/video/2022-01-04.php on line 27
+[26-Feb-2022 13:35:19 America/New_York] PHP Warning:  include(): Failed opening '/include/vod.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear:/home/kalathra/public_html') in /home/kalathra/public_html/video/2022-01-04.php on line 27
+[26-Feb-2022 13:35:19 America/New_York] PHP Warning:  include(/include/chat.php): failed to open stream: No such file or directory in /home/kalathra/public_html/video/2022-01-04.php on line 103
+[26-Feb-2022 13:35:19 America/New_York] PHP Warning:  include(): Failed opening '/include/chat.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear:/home/kalathra/public_html') in /home/kalathra/public_html/video/2022-01-04.php on line 103
+[26-Feb-2022 13:35:29 America/New_York] PHP Warning:  include(/include/vod.php): failed to open stream: No such file or directory in /home/kalathra/public_html/video/2022-01-04.php on line 27
+[26-Feb-2022 13:35:29 America/New_York] PHP Warning:  include(): Failed opening '/include/vod.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear:/home/kalathra/public_html') in /home/kalathra/public_html/video/2022-01-04.php on line 27
+[26-Feb-2022 13:35:29 America/New_York] PHP Warning:  include(/include/chat.php): failed to open stream: No such file or directory in /home/kalathra/public_html/video/2022-01-04.php on line 103
+[26-Feb-2022 13:35:29 America/New_York] PHP Warning:  include(): Failed opening '/include/chat.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear:/home/kalathra/public_html') in /home/kalathra/public_html/video/2022-01-04.php on line 103
+[26-Feb-2022 13:35:49 America/New_York] PHP Warning:  include(./include/vod.php): failed to open stream: No such file or directory in /home/kalathra/public_html/video/2022-01-04.php on line 27
+[26-Feb-2022 13:35:49 America/New_York] PHP Warning:  include(): Failed opening './include/vod.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear:/home/kalathra/public_html') in /home/kalathra/public_html/video/2022-01-04.php on line 27
+[26-Feb-2022 13:35:49 America/New_York] PHP Warning:  include(./include/chat.php): failed to open stream: No such file or directory in /home/kalathra/public_html/video/2022-01-04.php on line 103
+[26-Feb-2022 13:35:49 America/New_York] PHP Warning:  include(): Failed opening './include/chat.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear:/home/kalathra/public_html') in /home/kalathra/public_html/video/2022-01-04.php on line 103
+[26-Feb-2022 18:03:21 America/New_York] PHP Warning:  Use of undefined constant one - assumed 'one' (this will throw an Error in a future version of PHP) in /home/kalathra/public_html/video/2022-01-14.php on line 29
+[26-Feb-2022 18:03:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/kalathra/public_html/video/2022-01-14.php on line 29
+[26-Feb-2022 18:03:21 America/New_York] PHP Warning:  Use of undefined constant one - assumed 'one' (this will throw an Error in a future version of PHP) in /home/kalathra/public_html/include/chat.php on line 33
+[26-Feb-2022 18:03:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/kalathra/public_html/include/chat.php on line 33
+[26-Feb-2022 18:03:21 America/New_York] PHP Warning:  Use of undefined constant two - assumed 'two' (this will throw an Error in a future version of PHP) in /home/kalathra/public_html/include/chat.php on line 34
+[26-Feb-2022 18:03:21 America/New_York] PHP Warning:  A non-numeric value encountered in /home/kalathra/public_html/include/chat.php on line 34
+[26-Feb-2022 18:05:33 America/New_York] PHP Warning:  Use of undefined constant one - assumed 'one' (this will throw an Error in a future version of PHP) in /home/kalathra/public_html/include/chat.php on line 33
+[26-Feb-2022 18:05:33 America/New_York] PHP Warning:  A non-numeric value encountered in /home/kalathra/public_html/include/chat.php on line 33
+[26-Feb-2022 18:05:33 America/New_York] PHP Warning:  Use of undefined constant two - assumed 'two' (this will throw an Error in a future version of PHP) in /home/kalathra/public_html/include/chat.php on line 34
+[26-Feb-2022 18:05:33 America/New_York] PHP Warning:  A non-numeric value encountered in /home/kalathra/public_html/include/chat.php on line 34
