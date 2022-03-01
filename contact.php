@@ -5,7 +5,8 @@ if (isset($_POST['submit'])) {
     $mailFrom = $_POST['mail'];
     $message = $_POST['message'];
 
-    $mailTo = "kalathra@nw3.fcomet.com";
+    //$mailTo = "host email";
+    $mailTo = "#";
     $headers = "De: ".$mailFrom;
     $text = $mailFrom. "\n" .$name." envio un correo. \n\n".$message;
 
